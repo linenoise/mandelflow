@@ -1,7 +1,7 @@
 Mandelflow
 ==========
 
-The perl scripts that calculated and recorded the fractal music on my website.  These are open sourced so you can pick through them and have a look.  If you feel like building off of them, go for it, and feel free to email me with any questions.
+These are the perl scripts that calculated and recorded the fractal music on my website.  These are open sourced so you can pick through them and have a look.  If you feel like building off of them, go for it, and feel free to email me with any questions.
 
 Structure
 ---------
